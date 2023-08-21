@@ -9,6 +9,6 @@ license = "MPL-2.0"
 name = "ext_auth"
 repository = "https://github.com/iamjpotts/ext_auth"
 rust-version = "1.64"
-version = "0.0.1"
+version = "0.0.2-alpha"
 
 [dependencies]
